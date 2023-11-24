@@ -1,0 +1,197 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#greenStars {
+  width: 100%;
+  height: 715px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(/assets/images/8K\ 1080P\,\ 2K\,\ 4K\,\ 5K\ HD\ wallpapers\ free\ download.jpeg);
+}
+#greenStars .formcontainer1 {
+  width: 50%;
+  height: 60%;
+  background-color: rgba(0, 0, 0, 0.43);
+  border: 1px solid aquamarine;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+#greenStars .formcontainer1 h1 {
+  width: 100%;
+  height: 15%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #5bfefd;
+  font-size: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+#greenStars .formcontainer1 .inputscontainer1 {
+  width: 75%;
+  height: 80%;
+}
+#greenStars .formcontainer1 .inputscontainer1 #myForm1 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+#greenStars .formcontainer1 .inputscontainer1 #myForm1 .inputcnt {
+  width: 100%;
+  height: 15%;
+}
+#greenStars .formcontainer1 .inputscontainer1 #myForm1 .inputcnt input {
+  width: 100%;
+  height: 100%;
+  border: 2px solid #85fdff;
+  background-color: #011730;
+  color: rgba(91, 254, 254, 0.737254902);
+}
+#greenStars .formcontainer1 .inputscontainer1 #myForm1 .inputcnt input::placeholder {
+  color: rgba(91, 254, 254, 0.3215686275);
+}
+#greenStars .formcontainer1 .inputscontainer1 #myForm1 button {
+  width: 25%;
+  height: 15%;
+}
+
+#purple {
+  width: 100%;
+  height: 715px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(/assets/images/indir.jpeg);
+}
+#purple .formcontainer2 {
+  width: 50%;
+  height: 60%;
+  background-color: rgba(255, 255, 255, 0.286);
+  border: 1px solid #745b95;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+#purple .formcontainer2 h1 {
+  width: 100%;
+  height: 15%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #9033d7;
+  font-size: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+#purple .formcontainer2 .inputscontainer2 {
+  width: 75%;
+  height: 80%;
+}
+#purple .formcontainer2 .inputscontainer2 #myForm2 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+#purple .formcontainer2 .inputscontainer2 #myForm2 button {
+  border: 1px solid #da91ff;
+  color: #9033d7;
+}
+#purple .formcontainer2 .inputscontainer2 #myForm2 button:hover {
+  background-color: #745B95;
+  color: white;
+}
+#purple .formcontainer2 .inputscontainer2 #myForm2 .inputcnt2 {
+  width: 100%;
+  height: 15%;
+  display: flex;
+  justify-content: space-between;
+}
+#purple .formcontainer2 .inputscontainer2 #myForm2 .inputcnt2 input {
+  width: 46%;
+  background-color: #745b95;
+  border: 1px solid #da91ff;
+}
+
+#greenspace {
+  width: 100%;
+  height: 715px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(/assets/images/cf8d253c-bf55-4b4f-89f1-787cf161446b.jpeg);
+}
+#greenspace .formcontainer3 {
+  width: 50%;
+  height: 75%;
+  background-color: rgba(0, 0, 0, 0.286);
+  border: 1px solid #3DCE6A;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+#greenspace .formcontainer3 h1 {
+  width: 100%;
+  height: 15%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #3DCE6A;
+  font-size: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+#greenspace .formcontainer3 .inputscontainer3 {
+  width: 75%;
+  height: 80%;
+}
+#greenspace .formcontainer3 .inputscontainer3 #myForm3 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+#greenspace .formcontainer3 .inputscontainer3 #myForm3 button {
+  border: 1px solid #3DCE6A;
+  color: white;
+}
+#greenspace .formcontainer3 .inputscontainer3 #myForm3 button:hover {
+  background-color: #3DCE6A;
+  color: black;
+}
+#greenspace .formcontainer3 .inputscontainer3 #myForm3 .inputcnt3 {
+  width: 100%;
+  height: 12%;
+  display: flex;
+  justify-content: space-between;
+}
+#greenspace .formcontainer3 .inputscontainer3 #myForm3 .inputcnt3 input {
+  width: 46%;
+  background-color: #0B402E;
+  border: 1px solid #3DCE6A;
+  color: white;
+}
+#greenspace .formcontainer3 .inputscontainer3 #myForm3 .inputcnt3 input::placeholder {
+  color: white;
+}
